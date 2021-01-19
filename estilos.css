@@ -1,0 +1,22 @@
+.letras h1
+		{	color: orange;
+			font-family: sans-serif;
+			text-align: center; 
+	 
+
+	 }
+p {	color: #555;
+	margin: 10px;
+	line-height: 30px ;
+	font-size: 12px;
+	font-family: cursive;
+	text-align: center;
+}
+.quote {
+    font-size: 7pt;
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 670px;
+}
+
+body	{background-color: #fdddca}
