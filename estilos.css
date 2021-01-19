@@ -19,4 +19,9 @@ p {	color: #555;
     margin-right: 670px;
 }
 
-body	{background-color: #fdddca}
+* {background-color: #fdddca}
+
+img	{height: 150px;
+	margin-left: 43rem;
+     
+     }
